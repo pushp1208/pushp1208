@@ -11,10 +11,10 @@
  Outlook - pushpender1208@outlook.com
  
  
- Lnkedin - linkedin.com/in/pushpender-kumar-9706b01b9
+ Lnkedin -  linkedin.com/in/pushpender-kumar-9706b01b9
  
  
- Hackerrank Profile - hackerrank.com/verticaltiger77/
+ Hackerrank Profile -  hackerrank.com/verticaltiger77/
 
 <!---
 pushp1208/pushp1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
